@@ -1,0 +1,36 @@
+html{
+  font-size:20px;
+}
+
+
+p, h1, h2{
+  text-align: center;
+
+}
+
+.mizuiro{
+  color: skyblue;
+
+}
+
+.pink{
+  color:rgb(255, 192, 203);
+}
+p, h2{
+  font-family: "Arial", "Meiryo", sans-serif;
+}
+
+div, #basic > p{
+  font-weight: bold;
+}
+.sp{
+  letter-spacing: 1.2em
+}
+h1{
+  font-family: "Noto Serif JP", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  text-shadow: 0.1em 0.1em 0.19em skyblue;
+  border-bottom:solid 3px rgb(115, 115, 114);
+}
